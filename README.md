@@ -1,4 +1,4 @@
-Encryption<h2 align="center">
+<h2 align="center">
   Backend Challenge: Encryption
 </h2>
 
